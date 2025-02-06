@@ -26,7 +26,7 @@
 
 <br /><br /><br />
 
-also,
+這5個檔案無法上傳，請從原始來源複製 '.hgtags', '.editorconfig', '.hgeol', '.hgignore', '.hg_archival.txt'
 
 [read more about SciTE](http://www.scintilla.org/SciTE.html)
 
