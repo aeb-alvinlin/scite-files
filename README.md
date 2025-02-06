@@ -1,10 +1,10 @@
 這是從 SciTE 5.5.4 版解開的檔案。裡面包含了台灣繁體中文的介面，以及客製化的顏色與主題。
 
-# Welcome. Please choose one of these sections:
+# 歡迎，請選擇下列主題:
 
 ### [Translations](./files/translations.md)
 
-* Display SciTE in Taiwan Chinese
+* 將 SciTE 改為使用繁體中文台灣顯示 Taiwan Chinese
 
 ### [API files](./files/api_files.md)
 
